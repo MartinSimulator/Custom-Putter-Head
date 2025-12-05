@@ -1,7 +1,7 @@
 # Custom-Putter-Head
 This is an original putter head design inspired by the Scotty Cameron Newport 2.
 
-![Render Image](./renders/render1.jpg)
+![Render Image](./renders/render1.JPEG)
 
 ### Specifications:
 - shaft insert diameter: 9.5 mm
